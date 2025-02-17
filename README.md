@@ -1,3 +1,3 @@
 # proyectobarton
 
-Alumno: Carolina Bartont 
+Alumno: Carolina Barton 
